@@ -1,0 +1,116 @@
+@charset "utf-8";
+.active a{
+	background-color: white;
+}
+/*.header div nav ul li a img{
+	margin-top: 50px;
+}*/
+#banner {
+	width:100%px;
+	height:368px;
+	background:url(image/banner1.jpg) no-repeat center;
+	background-size: 100%;
+	min-width: 1280px;
+/*	position: relative;*/
+}
+.part1{
+	width: 100%;
+/*	height: 1500px;*/
+	background-color: #f1f2f3;
+	margin: -20px auto;
+}
+.describe{
+	width: 1040px;
+	/*background-color: red;*/
+	margin: 0px auto;
+}
+.describe h2 {
+	height:126px;
+	text-align: center;
+	font-size: 18px;
+	/*background-color: blue;*/
+	line-height: 200px;
+/*	margin-top: 100px;*/
+}
+.describe p {
+	text-align: center;
+	font-size: 12px;
+}
+.describe div a figcaption{
+	text-align: center;
+	color: black;
+	font-size: 12px;
+}
+.describe div a figcaption:hover{
+	color: gray;
+}
+.describe div nav figure figcaption{
+	text-align: center;
+	color: #5b5b5b;
+	font-size: 12px;
+}
+.describe1 div{
+	height:218px;
+	/*background-color: blue;*/
+}
+.describe1 div a{
+	width: 198px;
+	height: 198px;
+	float: left;
+	background-color: white;
+	margin-left: 8px;
+	margin-right: 1px;
+	margin-top: 20px;
+	box-shadow: 0 1px 8px rgba(0,0,0,0.2);
+}
+.describe1 div a img{
+	margin-left: 35px;
+	margin-top: 18px;
+}
+.describe2 div{
+	height:396px;
+/*	background-color: red;*/
+}
+.nav1{
+	width: 792px;
+	height: 198px;
+/*	background-color: green;*/
+	margin: 0 auto;
+}
+.nav2{
+	width: 528px;
+	height: 198px;
+/*	background-color: green;*/
+	margin: 0 auto;
+}
+.describe2 div nav figure{
+	width: 128px;
+	height: 128px;
+	float: left;
+/*	background-color: blue;*/
+	margin-left: 68px;
+	margin-right: 68px;
+}
+.describe2 div nav figure img{
+	margin-top: 10px;
+	margin-left: 14px;
+	margin-right: 14px;
+}
+.describe3 p a{
+	font-size: 10px;
+	float: right;
+}
+.describe3 div{
+	height:379px;
+	background-color: #e9ecef;
+	/*background-color: red;*/
+}
+.describe3 div a figure{
+	width: 113px;
+	height:113px;
+	float: left;
+	margin-top: 113px;
+	margin-left:47.5px;
+	margin-right: 47.5px;
+	box-shadow: 0 1px 10px rgba(0,0,0,0.6);
+}

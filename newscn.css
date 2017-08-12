@@ -1,0 +1,108 @@
+@charset="utf-8";
+#banner {
+	width:100%px;
+	height:268px;
+	background:url(image/banner4.jpg) no-repeat center;
+	background-size: 100%;
+	min-width: 1280px;
+}
+.news{
+	width: 100%;
+	height: 1060px;
+	background-color: #f6f4f4;
+	/*background-color: red;*/
+	margin-top: -15px;
+}
+.news h2 {
+	width: 1040px;
+	height:126px;
+/*	text-align: center;*/
+	font-size: 18px;
+	/*background-color: blue;*/
+	line-height: 200px;
+	margin: 0 auto;
+}
+.news nav{
+	width: 1040px;
+	height: 824px;
+	background-color: white;
+	margin: 0 auto;
+	position: relative;
+}
+.date{
+	position: absolute;
+	width: 300px;
+	height: 824px;
+	/*background-color: red;*/
+}
+.date h3{
+	width: 280px;
+	height:60px;
+/*	text-align: center;*/
+	font-size: 12px;
+	/*font-weight: lighter;*/
+	color: #5b5b5b;
+	/*background-color: green;*/
+	line-height: 60px;
+	/*margin: 0 auto;*/
+	margin-left: 20px;
+}
+.date h4{
+	width: 280px;
+	height:15px;
+/*	text-align: center;*/
+	font-size: 15px;
+	/*font-weight: lighter;*/
+	color: #5b5b5b;
+	/*background-color: blue;*/
+	line-height: 15px;
+	/*margin: 0 auto;*/
+	/*margin-left: 0px;*/
+}
+.date ul{
+	width: 280px;
+	height: 630px;
+	/*background-color: green;*/
+	margin-left: 20px;
+	margin-top: -14px;
+	border-right: 1px solid #f1f2f3;
+	/*background-color: blue;*/
+}
+.date ul li a{
+	width: 280px;
+	height: 18px;
+	display: inline-block;
+	color: #5b5b5b;
+	text-indent: 10px;
+	font-size: 12px;
+	/*background-color: red;*/
+}
+.date ul li a:hover{
+	background-color: #f1f2f3;
+	border-right: 2px solid #228ae6;
+}
+.act a{
+	background-color: #f1f2f3;
+	border-right: 2px solid #228ae6;
+}
+.article{
+	position: relative;
+	width: 650px;
+	height: 400px;
+	/*background-color: blue;*/
+	margin-left: 345px;
+}
+.article h3{
+	width: 280px;
+	height:120px;
+	font-size: 12px;
+	color: #5b5b5b;
+	/*background-color: green;*/
+	line-height: 180px;
+	margin: 0 auto;
+	text-align: center;
+}
+.article p{
+	text-indent: 28px;
+	font-size: 12px;
+}
