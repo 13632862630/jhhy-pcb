@@ -28,7 +28,7 @@
 /*	margin-top: 100px;*/
 }
 .service div nav {
-	width: 260px;
+	width: 346.5px;
 	height:180px;
 	text-align: center;
 	font-size: 22px;
@@ -38,7 +38,7 @@
 /*	margin-top: 100px;*/
 }
 .service div nav h3{
-	width: 260px;
+	width: 346.5px;
 	height:60px;
 	text-align: center;
 	font-size: 15px;
@@ -64,19 +64,14 @@
 .service2{
 	position: absolute;
 	margin-top: -180px;
-	margin-left: 260px;
+	margin-left: 346.5px;
 	border-right: 1px solid #cecece;
 }
 .service3{
 	position: absolute;
 	margin-top: -180px;
-	margin-left: 520px;
-	border-right: 1px solid #cecece;
-}
-.service4{
-	position: absolute;
-	margin-top: -180px;
-	margin-left: 780px;
+	margin-left: 693px;
+	/*border-right: 1px solid #cecece;*/
 }
 .productshow{
 	width: 100%;
